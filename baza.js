@@ -429,7 +429,7 @@ const words = [
   "mniej",
   "płaska",
   "ziemniak",
-  "ryba ",
+  "ryba",
   "mixer",
   "karty",
   "kontroler",
